@@ -10,8 +10,9 @@ interesting are the reasons I decided to pursue a career in data.
 I'm currently focused on expanding my knowledge of the following technologies which cover the majority of tools a Data Analyst uses:
 
  - Python (and relevant libraries like pandas)
- - SQL
- - Power BI and DAX
+ - SQL 
+ - Power BI and DAX (as well as other visualization tools like Tableau)
+ - Spreadsheets
 
 In the future, after gaining the experience needed, I'd also like to learn more about Data Engineering and Data Science tools.
 
